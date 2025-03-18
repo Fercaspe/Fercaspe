@@ -17,5 +17,5 @@ Focus on data analysis, predictive models, and visualization for strategic decis
  <li>Data visualization with Power BI and Tableau</li>
 </ul>
 
-
+<!-- Tech Stack: -->
 
