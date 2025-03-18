@@ -10,11 +10,11 @@ Focus on data analysis, predictive models, and visualization for strategic decis
  ## Skills:
 
  <ul>
- <li>Análisis de Datos con Python (Pandas, NumPy)</li>
+ <li>Data Analysis with Python (Pandas, NumPy)</li>
  <li>Big Data y Business Intelligence (ETL, Data Warehouse)</li>
- <li>Modelado Predictivo (Regresión, Clasificación, ML supervisado y no supervisado)</li>
- <li>SQL y NoSQL para bases de datos</li>
- <li>Visualización de datos con Power BI y Tableau</li>
+ <li>Predictive Models (Regression, Classification, Supervised and Unsupervised Learning)</li>
+ <li>SQL y NoSQL</li>
+ <li>Data visualization with Power BI and Tableau</li>
 </ul>
 
 
