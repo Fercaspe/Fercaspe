@@ -4,7 +4,7 @@ I'm a professional with 15+ years of experience in Administration, Logistics, an
 Focus on data analysis, predictive models, and visualization for strategic decision-making.
 
 
- ![Banner](https://github.com/Fercaspe/Fercaspe/blob/main/Banner_FC.png) 
+ ![Banner](https://github.com/Fercaspe/Fercaspe/blob/main/Banner_FC1.png) 
 
 
  ## Skills:
