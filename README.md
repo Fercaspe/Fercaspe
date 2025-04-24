@@ -1,6 +1,6 @@
 ## 👋 Hi there, my name is Fernando Castillo
 
-I'm a professional with 15+ years of experience in Administration, Logistics, and Foreign Trade, now specializing in Data Analysis and Machine Learning.
+I'm a professional with 15+ years of experience in Administration, Logistics, and Supply Chain, now specializing in Data Analysis and Machine Learning.
 Focus on data analysis, predictive models, and visualization for strategic decision-making.
 
 
